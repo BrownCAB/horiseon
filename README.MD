@@ -17,10 +17,14 @@ I relearned the fundamentals of web developement that is HTML, CSS, attribute co
 5. Follow the instrucations to submit the Challenge for review.
 
 ## Usage
-Provide instructions and examples for use. Include screenshots as needed.
+Provide instructions and examples for use. Include screenshots as needed. 
 
-    ```md
-    ![screenshot](assets/images/screenshot.png)
+    ```Screenshoot
+    ![screenshot](assets/images/horiseon.png)
+
+    Deployed project link
+    https://browncab.github.io/horiseon/
+
     ```
 
 ## Credits
