@@ -1,3 +1,4 @@
+/* Global Styles */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -36,7 +37,7 @@ body {
     font-size: 20px;
 }
 
-/* navigation */
+/* navigation links */
 .header div ul {
     list-style-type: none;
 }
@@ -68,7 +69,7 @@ p {
     background-position: center;
 }
 
-/* Section left column*/
+/* Main content */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -101,7 +102,7 @@ p {
     font-size: 36px;
 }
 
-/* aside right column */
+/* aside content */
 .float-right {
     float: right;
     margin-left: 25px;
