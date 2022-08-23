@@ -19,7 +19,8 @@ I relearned the fundamentals of web developement that is HTML, CSS, attribute co
 ## Usage
 Provide instructions and examples for use. Include screenshots as needed. 
 
-    ```Screenshoot
+    ```
+    Screenshoot
     ![screenshot](assets/images/horiseon.png)
 
     Deployed project link
